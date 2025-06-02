@@ -1,4 +1,1 @@
 site_name: My Docs
-git switch task-2-add-file
-git branch task-2-add-file
-git push --set-upstream origin task-2-add-file
