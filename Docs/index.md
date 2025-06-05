@@ -32,6 +32,6 @@
 
 Связь: ТГ @Vestaliyam или Vestaliyas@mail.ru.
 
-На этом сайте вы можете ознакомиться с моим портфолио: прочитать <a href="http://127.0.0.1:8000/styleguide/rules-for-docs/">стайлгайд</a>, примеры документов, статью, а также посмотреть записи митапов с моим участием.
+На этом сайте вы можете ознакомиться с моим портфолио: прочитать <a href="http://127.0.0.1:8000/styleguide/rules-for-docs/">стайлгайд</a>,<a href="https://crazy-techpeace.github.io/Vestaliya_Docs/processes/tikets-in-jira/">примеры документов</a>, <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/iamtechwriter/i-am-tech-writer/">статью</a>, а также посмотреть записи <a href="crazy-techpeace.github.io/Vestaliya_Docs/meetup/video">митапов</a> с моим участием.
 
 
