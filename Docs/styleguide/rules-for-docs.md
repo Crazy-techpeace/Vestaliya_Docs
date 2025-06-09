@@ -64,7 +64,7 @@
 
 **Пример оформления**
 
-![alt text](Screenshot_5.jpg)
+![alt text](Screenshot_5-1.jpg)
 
 ### **В документе**
 
@@ -320,9 +320,9 @@
 
 Основные группы и примеры стоп-слов и стоп-выражений:
 
-![alt text](Screenshot_10.jpg)
+![alt text](Screenshot_10-1.jpg)
 
-![alt text](Screenshot_11.jpg)
+![alt text](Screenshot_11-1.jpg)
 
 **Примеры**
 
