@@ -8,7 +8,7 @@
 Грейд миддл+.
 Нахожусь в Москве.
 
-Последние полтора года работала в АО "КАМА" (производство первого российского электромобиля-гаджета Atom) 
+Последние полтора года работала в АО «КАМА» (производство первого российского электромобиля-гаджета Atom) 
 и **вот что я успела за это время**: 
 
 * описала процессы взаимодействия между подразделениями с нуля;
@@ -21,7 +21,7 @@
 
 * написала пользовательскую документацию совместно с аналитиками и продакт-менеджерами; 
 
-* запустила серию митапов по технической документации в рамках центра компетенций "Системный анализ";
+* запустила серию митапов по технической документации в рамках центра компетенций «Системный анализ»;
 
 * разработала карту компетенций для технических писателей, системных и бизнес-аналитиков.
 
@@ -31,6 +31,5 @@
 
 Связь: ТГ @Vestaliyam или Vestaliyas@mail.ru.
 
-На этом сайте вы можете ознакомиться с моим портфолио: прочитать <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/styleguide/rules-for-docs/">стайлгайд</a>, <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/processes/tikets-in-jira/">примеры документов</a>, <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/iamtechwriter/i-am-tech-writer/">статью</a>, а также посмотреть записи <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/meetup/video/">митапов</a> с моим участием.
-
+На этом сайте вы можете ознакомиться с моим портфолио: прочитать <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/styleguide/rules-for-docs/">стайлгайд</a>, <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/processes/tikets-in-jira/">примеры документов</a> и статью о том, <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/iamtechwriter/i-am-tech-writer/">как я стала техническим писателем</a>.
 
