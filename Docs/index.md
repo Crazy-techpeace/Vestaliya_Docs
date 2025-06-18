@@ -31,6 +31,10 @@
 
 Связь: ТГ @Vestaliyam или Vestaliyas@mail.ru.
 
-На этом сайте вы можете ознакомиться с моим портфолио: прочитать <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/styleguide/rules-for-docs/">стайлгайд</a>, <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/processes/tikets-in-jira/">примеры документов</a>, <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/iamtechwriter/i-am-tech-writer/">статью</a>, а также посмотреть записи <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/meetup/video/">митапов</a> с моим участием.
+На этом сайте вы можете ознакомиться с моим портфолио: прочитать <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/styleguide/rules-for-docs/">стайлгайд</a>, <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/processes/tikets-in-jira/">примеры документов</a> и <a href="https://crazy-techpeace.github.io/Vestaliya_Docs/iamtechwriter/i-am-tech-writer/">статью о том, как я стала техническим писателем</a>.
 
+Мои сертификаты:
 
+[text](<../../../../Desktop/Мое портфолио технического писателя/Сертификат школы редакторов Бюро Горбунова.pdf>)
+
+[text](<../../../../Desktop/Мое портфолио технического писателя/Cloud.ru Cloud Fundamentals.pdf>)

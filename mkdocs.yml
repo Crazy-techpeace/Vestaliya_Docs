@@ -42,7 +42,6 @@ nav: # Структура сайта
     - Стайлгайд: styleguide/rules-for-docs.md 
     - Описание процессов: processes/tikets-in-jira.md
     - Статья: iamtechwriter/i-am-tech-writer.md
-    - Митап: meetup/video.md
 
 extra:
   social: # Ссылки на соц.сети
